@@ -1,7 +1,8 @@
-#Dappy 🚀
+# Dappy 🚀
 A colorful and playful  SaaS landing  page built with pure HTML, CSS & JavaScript.
 
-## Live Demo
+## 🌐Live Demo
+dappy365.netlify.app
 
 ## Perview
 <img width="1908" height="885" alt="Screenshot 2026-03-06 105502" src="https://github.com/user-attachments/assets/887c5d1d-a56e-45db-b62f-d4793ee66b5e" />
