@@ -489,7 +489,7 @@ h1 .highlight::after {
 .bar:nth-child(6) {
   height: 90%;
   background: var(--purple);
-  animation-delay: 0.6;
+  animation-delay: 0.6s;
 }
 .bar:nth-child(7) {
   height: 75%;
@@ -1101,4 +1101,5 @@ footer {
   color: #bbb;
   font-weight: 700;
 }
+
 
