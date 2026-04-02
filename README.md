@@ -11,7 +11,7 @@ A colorful and playful  SaaS landing  page built with pure HTML, CSS & JavaScrip
 ## ✨Features
 - Animated ticker banner
 - Sticky navigation bar
-- Hero section  with live dashboard mocckup
+- Hero section  with live dashboard mockup
 - Trusted by / logos section
 - Features grid with hover effects
 - How it works section
